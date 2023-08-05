@@ -1,11 +1,11 @@
-#include  <stdio.h>
+#include <stdio.h>
 
 
 /***
- * main-print number of arguments passed. 
- * @argc:number of command line arguments.
- * @argv:pointer to an array of command line argument.  
- * Return:0-success, non-zero-fail.
+ * main - print number of arguments passed. 
+ * @argc: number of command line arguments.
+ * @argv: pointer to an array of command line argument.  
+ * Return: 0-success, non-zero-fail.
  */
 
 
